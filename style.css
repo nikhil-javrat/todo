@@ -76,7 +76,7 @@ ul li:before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(/img/icons8-unchecked-checkbox-50.png);
+    background-image: url(https://cdn-icons-png.flaticon.com/128/7794/7794693.png);
     background-size: cover;
     background-position: center;
     top: 8px;
@@ -89,7 +89,7 @@ ul li.checked{
 
 }
 ul li.checked:before{
-     background-image: url(/img/ok-1976099_1280.png);
+     background-image: url(https://image.shutterstock.com/image-vector/flat-round-check-mark-green-260nw-652023034.jpg);
 
 }
 
